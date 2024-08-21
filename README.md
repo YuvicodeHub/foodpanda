@@ -1,3 +1,3 @@
 # foodpanda
 My first web project
-Dev - Yuvraj Gupta.
+Dev - Yuvraj Gupta at work.
